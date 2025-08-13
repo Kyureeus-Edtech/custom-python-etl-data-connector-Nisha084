@@ -42,10 +42,12 @@ pip install -r requirements.txt
 
 <h5>2. Create .env file</h5>
 
+```
 ABUSEIPDB_API_KEY=your_api_key_here
 MONGODB_URI=mongodb://localhost:27017
 MONGO_DB_NAME=abuseipdb
 MONGO_COLLECTION_NAME=abuseipdb_raw
+```
 
 <h5>3. Run the ETL pipeline</h5>
 
