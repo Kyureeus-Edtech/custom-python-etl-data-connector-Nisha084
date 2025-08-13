@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ```
 ABUSEIPDB_API_KEY=your_api_key_here
-MONGODB_URI=mongodb://localhost:27017
+MONGODB_URI=your_mongo_uri
 MONGO_DB_NAME=abuseipdb
 MONGO_COLLECTION_NAME=abuseipdb_raw
 ```
